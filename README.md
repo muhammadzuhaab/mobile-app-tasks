@@ -86,7 +86,6 @@ Contributions are welcome! Please follow the steps below:
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/muhammadzuhaab)
 - **GitHub**: [Your GitHub Profile](https://github.com/muhammadzuhaab)
 
